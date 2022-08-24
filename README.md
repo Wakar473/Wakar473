@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on MNC
-- 📫 How to reach me By Linkdein
+- 📫 To reach me By Linkdein--wakar473
 
 <!---
 Wakar473/Wakar473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
